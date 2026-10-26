@@ -1,6 +1,5 @@
-   # Anastasiia Haidukova
-   UI/UX designer. Learning design engineering.
-   ## About me
-- 3 years in UI/UX and product design
-- Tools: Figma, Webflow, Framer
-- Currently learning Git and design engineering
+# de-course-playground
+
+Hi, I'm Nastia, a designer from Khmelnytskyi. This is my GitHub sandbox.
+
+I design interfaces for web services and mobile apps, and work with design systems and dashboards.
